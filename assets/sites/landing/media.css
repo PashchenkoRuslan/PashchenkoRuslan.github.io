@@ -1,0 +1,380 @@
+@media (max-width: 1210px) {
+    .howTo_wrapper {
+        justify-content: space-around;
+    }
+
+    .howTo_wrapper { 
+        margin-top: -60px;
+    }
+
+    .howTo_title {
+        margin-bottom: 100px;
+    }
+}
+@media (max-width: 1170px) {
+    .container {
+        max-width: 1000px;
+    }
+
+    .about_who-text {
+        margin-left: 6px;
+    }
+
+    .aboutCourse_title {
+        font-size: 30px;
+    }
+
+    .incourse_ul-item {
+        font-size: 18px;
+    }
+
+    .tariffs_item:nth-child(3) {
+        margin-top: 40px;
+    }
+
+    .tariffs_item + .tariffs_item {
+        margin-left: 0;
+    }
+
+    .who_list {
+        justify-content: space-around;
+    }
+
+}
+
+@media (max-width: 1170px) {
+    .programm_btn {
+        width: 665px;
+    }
+
+    .programm_content {
+        width: 665px;
+    }
+
+    .result_item {
+        width: 40%;
+        justify-content: space-around;
+    }
+
+    .result_item:last-child {
+        margin: 0 auto;
+    }
+
+    .result {
+        padding-bottom: 70px;
+    }
+
+    .header_title {
+        font-size: 52px;
+    }
+
+    .header_subtitle {
+        font-size: 18px;
+    }
+
+    .header_title {
+        font-size: 45px;
+        width: 100%;
+    }
+
+    .header_btn  {
+        width: 220px;
+        height: 40px;
+        
+        font-size: 16px;
+    }
+
+}
+
+
+
+@media (max-width: 1190px) {
+
+
+    .aboutCourse {
+        margin-top: -116px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .container {
+        max-width: 880px;
+    }
+
+    .programm_btn {
+        width: 545px;
+        font-size: 18px;
+    }
+
+    .programm_content {
+        width: 545px;
+    }
+
+}
+
+
+
+@media (max-width: 900px) {
+    .about-content_item + .about-content_item {
+        margin-top: 43px;
+    }
+
+    .about-content_main img {
+        display: none;
+    }
+
+    .aboutCourse {
+        margin-top: -67px;
+    }
+
+    .about-content_text {
+        max-width: 100%;
+    }
+
+    .container {
+        max-width: 800px;
+    }
+
+    .about_subtitle {
+        font-size: 28px;
+    }
+
+    .about-content_main img {
+        width: 38%;
+    }
+
+    .about-content_main img {
+        margin-top: 18px;
+    }
+
+    .about-content_wrapper {
+        font-size: 18px;
+    }
+
+    .programm_btn {
+        width: 506px;
+        font-size: 17px;
+    }
+
+    .programm_content {
+        width: 506px;
+        font-size: 17px;
+    }
+
+    .who_title {
+       width: auto;
+        font-size: 24px;
+    }
+
+    .who_item-text {
+        font-size: 19px;
+    }
+
+    .who_item-text {
+        width: auto;
+    }
+
+    .reviews_carousel-item  {
+        height: auto;
+    }
+
+    .reviews_carousel-item_text {
+        font-size: 16px;
+
+    }
+}
+
+@media (max-width: 900px) {
+    .programm_btn {
+        width: 444px;
+        font-size: 17px;
+    }
+
+    .programm_content-box {
+        padding: 51px;
+
+    }
+
+    .programm_title {
+        margin-bottom: 56px;
+    }
+
+    .programm_content {
+        width: 444px;
+        font-size: 16px;
+    }
+    
+    .programm_btn {
+        width: 91%;
+
+    }
+
+    .programm_content {
+        width: 90%;
+    }
+
+    .about_line {
+        width: 50%;
+    }
+}
+
+
+
+
+@media (max-width: 700px) {
+    .tariffs_item + .tariffs_item {
+        margin-left: 0;
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 500px) {
+    .who_item-text {
+        width: auto;
+    }
+
+    .programm_content-box {
+        padding: 47px 43px 75px;
+
+    }
+
+    .aboutCourse {
+        margin-top: 46px;
+    }
+
+    .about_subtitle {
+        font-size: 20px;
+    }
+
+    .about-content_wrapper {
+        font-size: 16px;
+    }
+
+    .tariffs_text {
+        width: auto;
+    }
+
+    
+}
+
+@media (max-width: 650px) {
+    .result_item {
+        width: 100%;
+
+    }
+
+    .footer {
+        font-size: 16px;
+    }
+
+    .reviews {
+        display: none;
+    }
+
+    .footer img {
+        width: 30px;
+    }
+
+    .footer_social {
+        display: none;
+    }
+
+    .about-content_item + .about-content_item {
+        margin-top: 15px;
+    }
+
+    .footer_back img {
+        display: none;
+    }
+
+    .footer_wrapper {
+        display: none;
+    }
+}
+
+@media (max-width: 350px) {
+
+    .container {
+        max-width: 280px;
+    }
+
+    .header_title {
+        font-size: 30px;
+        width: 100%;
+    }
+
+    .header_subtitle {
+        font-size: 15px;
+    }
+
+    .header_btn {
+        width: 199px;
+    }
+
+
+    .result_item-text {
+        display: block;
+        width: auto;
+
+    }
+
+    .howTo_item {
+        display: flex;
+         width: auto; 
+         height: auto;
+    }
+
+    .about-content {
+        height: auto;
+    }
+    .about-content_main {
+        height: auto;
+    }
+
+    .tariffs_item {
+        width: auto;
+    }
+
+    .about_title {
+        font-size: 29px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+
+    .howTo_item {
+        font-size: 16px;
+    }
+
+    .howTo_title {
+        font-size: 19px;
+    }
+
+    .result_item-text {
+        font-size: 16px;
+
+    }
+
+    .result_title {
+        font-size: 29px;
+
+    }
+
+    .programm_btn {
+        width: 100%;
+    }
+
+    .programm_content {
+        width:100%;
+    }
+
+    .programm_btn {
+        font-size: 15px;
+    }
+
+   
+    .programm_title {
+        font-size: 29px;
+
+    }
+        
+}
